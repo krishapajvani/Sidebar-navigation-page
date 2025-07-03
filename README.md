@@ -11,11 +11,6 @@ A minimalist and modern sidebar navigation menu built with pure **HTML** and **C
 - Google Fonts integration (Poppins) for clean typography  
 - Social media icon links with hover scale effect  
 
-## Preview
-
-![Uploading Screenshot 2025-07-03 205115.png…]()
-
-
 ## How to Use
 
 1. Clone the repository:  
