@@ -14,7 +14,6 @@ A minimalist and modern sidebar navigation menu built with pure **HTML** and **C
 ## How to Use
 
 1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/sidebar-navigation.git
+   
 
 
