@@ -13,7 +13,8 @@ A minimalist and modern sidebar navigation menu built with pure **HTML** and **C
 
 ## Preview
 
-![Screenshot (1)](https://github.com/user-attachments/assets/571dd0ec-4b4b-4332-902b-828c1ede736f)
+![Uploading Screenshot 2025-07-03 205115.png…]()
+
 
 ## How to Use
 
